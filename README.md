@@ -1,7 +1,7 @@
 <h1 align="center"> Project Script Initial </h1>
 
 <p align="center">
-Exclusivo e gratuito, por Bruna para demonstração de técnicar de tecnologias WEB.
+Exclusivo e gratuito, por Bruna para demonstração de técnicas de tecnologias WEB.
 </p>
 
 <p align="center">
